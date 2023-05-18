@@ -1,6 +1,6 @@
 // Descrição: Esta lógica calcula o peímetro de um circulo
 // Nome: Alan Santana Leão
-// Data: 10/04/2023
+// Data: 10/05/2023
 
 import java.util.Scanner;
 

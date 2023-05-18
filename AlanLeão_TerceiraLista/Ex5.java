@@ -1,3 +1,6 @@
+// Descrição: Esta lógica mostra todos os números múltiplos de 10, do 0 até o 200
+// Nome: Alan Santana Leão
+// Data: 17/05/2023
 
 public class Ex5
 {
