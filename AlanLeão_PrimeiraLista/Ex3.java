@@ -14,7 +14,7 @@ public class Ex3
        System.out.println("Digite o valor que será convertido para dolar:");
 
        real = sc1.nextFloat(); 
-       resDolar = real*4.94;
+       resDolar = real/4.94;
 
        System.out.println("O resultado da conversão para dolar é: " + resDolar);
     }

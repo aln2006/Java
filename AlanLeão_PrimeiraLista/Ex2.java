@@ -18,7 +18,7 @@ public class Ex2
         n3 = sc1.nextFloat();
         n4 = sc1.nextFloat();
 
-        resSoma = (n1*2) + (n2*2) + (n3*2) + (n4*2);
+        resSoma = (n1*n1) + (n2*n2) + (n3*n3) + (n4*n4);
 
         System.out.println("O resultado da soma é: " + resSoma);
     }
