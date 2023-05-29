@@ -23,7 +23,7 @@ import java.util.Scanner;
              soma = numero1 + numero2 + numero3;
          }
  
-         System.out.println("A soma é igual a 48 ou 71. Encerrando o programa.");
+         System.out.println("A soma é igual a 48 ou 71.");
      }
  }
  
